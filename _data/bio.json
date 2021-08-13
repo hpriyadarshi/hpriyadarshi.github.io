@@ -1,32 +1,32 @@
 {
     "basics": {
-        "name": "Michael (Micky) Mangrobang",
-        "nickname": "Micky Mangrobang",
-        "label": "Student/Teaching Assistant",
-        "picture": "images/self/ProfilePic.jpg",
-        "email": "micky.jm4@gmail.com",
+        "name": "Hansraj Priyadarshi",
+        "nickname": "H Priyadarshi",
+        "label": "Student",
+        "picture": "images/self/Webp.net-resizeimage (2).jpg",
+        "email": "hpriyadarshi9431@gmail.com",
         "resume" : "downloads/MichaelMangrobangOnlineResume.pdf",
-        "phone": "",
-        "website": "https://mickyjm.github.io",
+        "phone": "+918825169730",
+        "website": "https://hpriyadarshi.github.io",
         "summary": "I'm a software engineer still early in my career. I have experience ranging from front-end development to back-end development with an interest in giving users a better experience through efficiency, control, and design.",
-        "preface": "I will be honest. If you are looking for a \"rockstar\" software engineer that dedicates their entire life to coding even outside of work. That is not me. I am human, I have hobbies, I have other passions. When the moment strikes and the ideas flow, then yes, I will pursue and create a side project. Other than that, I like to enjoy my other interests. I may not bring a life dedicated to coding, but I can promise to bring",
+        "preface": "I will be honest. If you are looking for a \"rockstar\" software engineer that dedicates their entire life to coding even outside of work. That is not me. I am human, I have hobbies, I have other passions. When the moment strikes and the ideas flow, then yes, I will pursue and create a side project. Other than that, I like to enjoy my other interests.",
         "location": {
-            "address": "",
-            "postalCode": "96818",
-            "city": "Honolulu",
-            "countryCode": "USA",
-            "region": "Hawaii"
+            "address": "Anora Kala",
+            "postalCode": "226028",
+            "city": "Lucknow",
+            "countryCode": "INDIA",
+            "region": "UTTAR PRADESH"
         },
         "profiles": [
             {
                 "network": "GitHub",
-                "username": "mickyjm",
-                "url": "http://github.com/mickyjm"
+                "username": "hpriyadarshi",
+                "url": "http://github.com/hpriyadarshi"
             },
             {
                 "network": "LinkedIn",
-                "username": "mickyjm",
-                "url": "http://linkedin.com/in/mickyjm"
+                "username": "H PRIYADARSHI",
+                "url": "https://www.linkedin.com/in/h-priyadarshi-0573631b3/"
             }
         ]
     },
@@ -55,12 +55,9 @@
     "programming": {
         "name": "Programming",
         "list": [
-            "C#",
             "C/C++",
             "Java",
-            "Python",
-            "Lisp (Common)",
-            "Assembly (x86)"
+            "Python"
         ]
     },
     "web": {
@@ -81,7 +78,6 @@
             "Terminal",
             "Git/GitHub",
             "Atom",
-            "Team Foundation Server",
             "Unity",
             "Unreal Engine",
             "Eclipse",
@@ -93,12 +89,10 @@
             "name": "Languages",
             "level": "",
             "keywords": [
-                "C#",
                 "Javascript",
                 "C/C++",
                 "Java",
-                "Python",
-                "Lisp (Common)"
+                "Python"
             ]
         },
         {
@@ -113,72 +107,29 @@
     ],
     "education": [
         {
-            "institution": "University of Hawaii at Manoa, Honolulu, HI",
-            "area": "Computer Science (expected Spring 2018)",
-            "studyType": "B.S.",
-            "startDate": "2014-09-01",
-            "endDate": "Present",
+            "institution": "Acharya Institute Of Technology, Bengaluru",
+            "area": "Computer Science and Engineering",
+            "studyType": "B.E.",
+            "startDate": "2017-08-01",
+            "endDate": "2021-08-30",
             "gpa": "",
             "courses": [
-                "bullet point",
+                "",
                 "bullet point"
-            ]
-        },
-        {
-            "institution": "Kauai Community College, Lihue, HI",
-            "area": "Liberal Arts",
-            "studyType": "A.A.",
-            "startDate": "2011-09-01",
-            "endDate": "2014-05-31",
-            "gpa": "",
-            "courses": [
             ]
         }
     ],
     "work": [
         {
-            "company": "University of Hawaii at Manoa Information and Computer Sciences Department",
-            "position": "Teaching Assistant",
-            "website": "http://www.ics.hawaii.edu/",
-            "startDate": "2016-08-17",
-            "endDate": "Present",
+            "company": "Ballad Media",
+            "position": "Software Development Intern",
+            "website": "http://www.balladmedia.com/",
+            "startDate": "2020-09-1",
+            "endDate": "2020-12-1",
             "summary": "summary",
             "highlights": [
                 "bullet point",
                 "bullet point",
-                "bullet point"
-            ]
-        },
-        {
-            "company": "County of Kauai Finance Department (Information Technology)",
-            "position": "IT Intern",
-            "website": "http://www.kauai.gov/Government/Departments/Finance/IT",
-            "startDate": "2016-06-16",
-            "endDate": "2016-07-29",
-            "summary": "summary",
-            "highlights": [
-                "bullet point"
-            ]
-        },
-        {
-            "company": "University of Hawaii at Manoa Information and Computer Sciences Department",
-            "position": "Assistant Teaching Assistant",
-            "website": "http://www.ics.hawaii.edu/",
-            "startDate": "2016-01-16",
-            "endDate": "2016-05-15",
-            "summary": "summary",
-            "highlights": [
-                "bullet point"
-            ]
-        },
-        {
-            "company": "County of Kauai Fire Department",
-            "position": "Fire Intern",
-            "website": "http://www.kauai.gov/fire",
-            "startDate": "2015-06-16",
-            "endDate": "2015-07-31",
-            "summary": "summary",
-            "highlights": [
                 "bullet point"
             ]
         }
