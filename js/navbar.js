@@ -1,7 +1,4 @@
-/**
- ** JS file for Desktop Navigation Menu
- ** @author Micky (Micky) Mangrobang
- **/
+
 
 $(document).ready(function () {
 

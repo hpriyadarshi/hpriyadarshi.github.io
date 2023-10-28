@@ -1,7 +1,4 @@
-/**
- ** JS file for landing screen
- ** @author Michael (Micky) Mangrobang
- **/
+
 
 window.onbeforeunload = function () {
     window.scrollTo(0, 0);      // refresh back to top of screen

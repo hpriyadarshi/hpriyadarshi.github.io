@@ -2,10 +2,10 @@
     "basics": {
         "name": "Hansraj Priyadarshi",
         "nickname": "H Priyadarshi",
-        "label": "Student",
+        "label": "Professional",
         "picture": "images/self/Webp.net-resizeimage (2).jpg",
         "email": "hpriyadarshi9431@gmail.com",
-        "resume" : "downloads/MichaelMangrobangOnlineResume.pdf",
+        "resume" : "downloads/Hansraj's Resume",
         "phone": "+918825169730",
         "website": "https://hpriyadarshi.github.io",
         "summary": "I'm a software engineer still early in my career. I have experience ranging from front-end development to back-end development with an interest in giving users a better experience through efficiency, control, and design.",
@@ -126,6 +126,19 @@
             "website": "http://www.balladmedia.com/",
             "startDate": "2020-09-1",
             "endDate": "2020-12-1",
+            "summary": "summary",
+            "highlights": [
+                "bullet point",
+                "bullet point",
+                "bullet point"
+            ]
+        },
+        {
+            "company": "Accenture Solutions Pvt. Ltd.",
+            "position": "Software Developer",
+            "website": "https://www.accenture.com/in-en",
+            "startDate": "2021-10-28",
+            "endDate": "Current",
             "summary": "summary",
             "highlights": [
                 "bullet point",

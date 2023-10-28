@@ -1,7 +1,4 @@
-/**
- ** JS file for Footer Navigation Menu
- ** @author Micky (Micky) Mangrobang
- **/
+
 
 $(document).ready(function () {
 
